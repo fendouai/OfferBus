@@ -4,16 +4,16 @@ Github的小伙伴们，大家好！我是你们熟悉的校招君！
 
 今年春招，我们将会再接再厉，为大家整理了近期已经开启春招的一些企业的内推信息，希望帮助更多的同学内推进大厂。这些内推渠道都是和我们合作的公司HR或是内推员工提供的，我们也都会核实相关信息的真实性和可靠性，所以我们的内推渠道绝对放心靠谱！
 
-大家如果想一键获取目前开启春招的互联网公司的校招时间表，可以看这篇文章：https://mp.weixin.qq.com/s/WPTMNaB0H3K0VNXRr7yrmg，如果大家想一键获取BAT等大厂的内推方式，请大家耐心看完全文。本文我们为大家精心整理了包括腾讯、阿里、字节、京东、顺丰科技、中兴、科大讯飞、海康威视、携程、猿辅导等50+名企的春招内推方式，并且会一直更新中，欢迎大家持续关注。
+大家如果想一键获取目前开启春招的互联网公司的校招时间表，可以看[这篇文章](https://mp.weixin.qq.com/s/WPTMNaB0H3K0VNXRr7yrmg)，如果大家想一键获取BAT等大厂的内推方式，请大家耐心看完全文。本文我们为大家精心整理了包括腾讯、阿里、字节、京东、顺丰科技、中兴、科大讯飞、海康威视、携程、猿辅导等50+名企的春招内推方式，并且会一直更新中，欢迎大家持续关注。
 
-另外，我们还针对这些公司的春招内推建立了答疑群，大家有内推相关的问题欢迎群里提问。内推答疑群链接：https://w.url.cn/s/Aig6MpG，点击链接扫码进群即可！另外，大家如果后期想查询简历进度，也欢迎加我的wx私聊我查询简历进度：xzbsljb。
+另外，我们还针对这些公司的春招内推建立了答疑群，大家有内推相关的问题欢迎群里提问。[内推答疑群链接](https://w.url.cn/s/Aig6MpG)，点击链接扫码进群即可！另外，大家如果后期想查询简历进度，也欢迎加我的wx私聊我查询简历进度：xzbsljb。
 
 ### 一、腾讯
 
 春招详情：https://mp.weixin.qq.com/s/q3C6cdLaW0WN_QMVM7shQA；
 
 内推链接（如果点开内推链接出现“你的简历已存在，无需内推”，说明之前内推过或是官网上创建过简历，就不能再次内推了，请在校招官网：join.qq.com直接投递即可）：
-https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2ChbWXodJk，优先推荐CDG！福利待遇超好！HC也多！
+https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2ChbWXodJk ，优先推荐CDG！福利待遇超好！HC也多！
 
 ### 二、阿里钉钉
 
@@ -44,7 +44,7 @@ https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2C
 
 详情：https://mp.weixin.qq.com/s/BChNpxNO_zSRmsF5veN9hw，免简历筛选直通正式批笔试！扫描下方内推二维码投递：
 
-[图片](https://uploader.shimo.im/f/ISIfSMjyLCEGWcli.png)
+![图片](https://uploader.shimo.im/f/ISIfSMjyLCEGWcli.png)
 
 ### 七、携程
 
@@ -112,7 +112,7 @@ https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2C
 
  内推二维码：
 
-[图片](https://uploader.shimo.im/f/a6zbylFl0yxVtQ4M.png)
+![图片](https://uploader.shimo.im/f/a6zbylFl0yxVtQ4M.png)
 
 ### 十八、星辉游戏
 
