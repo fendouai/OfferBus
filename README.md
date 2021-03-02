@@ -1,6 +1,6 @@
 Github的小伙伴们，大家好！我是你们熟悉的校招君！
 
-自20年2月中旬做互联网校招内推到现在已经有一年多的时间了，去年春秋招期间我们有帮助超过2万名学弟学妹们进行内推，通过我们内推拿到offer的同学也有上千名。关于我们为什么要做内推以及团队的介绍可以看这篇文章：https://mp.weixin.qq.com/s/cyYu2DkCtx6o6RYqJxNzUw。
+自20年2月中旬做互联网校招内推到现在已经有一年多的时间了，去年春秋招期间我们有帮助超过2万名学弟学妹们进行内推，通过我们内推拿到offer的同学也有上千名。关于我们为什么要做内推以及团队的介绍可以看[这篇文章](https://mp.weixin.qq.com/s/cyYu2DkCtx6o6RYqJxNzUw)。
 
 今年春招，我们将会再接再厉，为大家整理了近期已经开启春招的一些企业的内推信息，希望帮助更多的同学内推进大厂。这些内推渠道都是和我们合作的公司HR或是内推员工提供的，我们也都会核实相关信息的真实性和可靠性，所以我们的内推渠道绝对放心靠谱！
 
@@ -12,7 +12,7 @@ Github的小伙伴们，大家好！我是你们熟悉的校招君！
 
 春招详情：https://mp.weixin.qq.com/s/q3C6cdLaW0WN_QMVM7shQA；
 
-内推链接（如果点开内推链接出现“你的简历已存在，无需内推”，说明之前内推过或是官网上创建过简历，就不能再次内推了，请在校招官网：join.qq.com直接投递即可）：
+内推链接（如果点开内推链接出现“你的简历已存在，无需内推”，说明之前内推过或是官网上创建过简历，就不能再次内推了，请在校招官网：https://join.qq.com 直接投递即可）：
 https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2ChbWXodJk ，优先推荐CDG！福利待遇超好！HC也多！
 
 ### 二、阿里钉钉
@@ -26,7 +26,7 @@ https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2C
 
 春招详情：https://mp.weixin.qq.com/s/OFm2mtxUzWtr3jxd5QwXww
 
-内推码：396182，官网投递链接：http://campus.sf-express.com，填写信息，使用内推码进行投递。3.8截止，大家尽快投递！
+内推码：396182，官网投递链接：http://campus.sf-express.com ，填写信息，使用内推码进行投递。3.8截止，大家尽快投递！
 
 ### 四、CVTE
 
@@ -42,9 +42,9 @@ https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2C
 
 ### 六、BOSS直聘提前批
 
-详情：https://mp.weixin.qq.com/s/BChNpxNO_zSRmsF5veN9hw，免简历筛选直通正式批笔试！扫描下方内推二维码投递：
+详情：https://mp.weixin.qq.com/s/BChNpxNO_zSRmsF5veN9hw ，免简历筛选直通正式批笔试！扫描下方内推二维码投递：
 
-![图片](https://uploader.shimo.im/f/ISIfSMjyLCEGWcli.png)
+<img src="./images/boss.png" width="50%" height="50%">
 
 ### 七、携程
 
@@ -74,7 +74,7 @@ https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2C
 
 春招详情：https://mp.weixin.qq.com/s/_Isgk7Lw597w88SeP-pr6A
 
-内推码：MVRNAV，点击官网链接（campushr.hikvision.com）进入校园招聘页面，选择合适的岗位投递简历-填写内推码-投递成功。
+内推码：MVRNAV，点击官网链接（ https://campushr.hikvision.com ）进入校园招聘页面，选择合适的岗位投递简历-填写内推码-投递成功。
 
 ### 十二、中兴通讯
 
@@ -110,9 +110,9 @@ https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2C
 
 春招详情：https://mp.weixin.qq.com/s/iRRthqbCMFklAQf9v15EAA
 
- 内推二维码：
+内推二维码：
 
-![图片](https://uploader.shimo.im/f/a6zbylFl0yxVtQ4M.png)
+<img src="./images/shenxinfu.png" width="50%" height="50%">
 
 ### 十八、星辉游戏
 
@@ -130,7 +130,7 @@ https://join.qq.com/judgetalent.html?rec_key=tZnCF-fOpwZlGkOgqOzfR1KCYEo8hnOAw2C
 
 春招详情：https://mp.weixin.qq.com/s/k9E4gD0UWxKigusLDGfAfQ
 
-内推码: wobkaf或ryemxn，投递链接：http://www.hotjob.cn/wt/espressif/mobweb/v8/index?scene=126W（微信端）
+内推码: wobkaf或ryemxn，投递链接：http://www.hotjob.cn/wt/espressif/mobweb/v8/index?scene=126W （微信端）
 
 ### 二十一、猿辅导内推
 
